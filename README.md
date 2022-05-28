@@ -12,4 +12,4 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 ## License
 
-Deze repo heeft de [MIT]() license.
+Deze repo heeft de [MIT](https://github.com/lottekoblens/weekly-nerd-2122/blob/master/LICENSE) license.
