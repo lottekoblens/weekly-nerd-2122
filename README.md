@@ -24,6 +24,8 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
   
   Artikel 3 gaat over hoe Triple een project opzet en wat voor tools ze daarbij allemaal gebruiken.
   
+  <img src="https://avatars.githubusercontent.com/u/8983611?v=4" width="350">
+  
 * [Artikel 4, ontwerpen voor een cognitieve beperking](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Artikel-4:-Ontwerpen-voor-een-cognitieve-beperking)
   
   Artikel 4 gaat over het ontwerpen van een website voor een cognitive beperking.
