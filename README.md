@@ -12,6 +12,7 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 * [Artikel 1, Toegankelijkheid](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Toegankelijkheid)
   Artikel 1 gaat over toegankelijkheid op het web en hoe we dit beter kunnen maken als developers.
+  <img src="https://github.com/lottekoblens/weekly-nerd-2122/blob/master/images/leonie.jpeg" width="650">
 * [Artikel 2, TypeScript](https://github.com/lottekoblens/weekly-nerd-2122/wiki/TypeScript)
   Artikel 2 gaat over TypeScript. Ik leg hierin uit hoe TypeScript werkt en hoe je het kan gebruiken.
 * [Artikel 3, Opzet van een project](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Opzet-van-een-project-(Triple))
