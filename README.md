@@ -1,6 +1,6 @@
 # Weekly Nerd
 
-In deze repo vind je drie artikelen die ik heb geschreven over technieken/onderwerpen die bij de weekly nerds aan bod zijn gekomen.
+In deze repo vind je vier artikelen die ik heb geschreven over technieken/onderwerpen die bij de weekly nerds/mingles aan bod zijn gekomen.
 
 ## Opdracht
 
@@ -18,6 +18,8 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
   <img src="https://github.com/lottekoblens/weekly-nerd-2122/blob/master/images/typescript.png" width="650">
 * [Artikel 3, Opzet van een project](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Opzet-van-een-project-(Triple))
   Artikel 3 gaat over hoe Triple een project opzet en wat voor tools ze daarbij allemaal gebruiken.
+* [Artikel 4, ontwerpen voor een cognitieve beperking](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Artikel-4:-Ontwerpen-voor-een-cognitieve-beperking)
+  Artikel 4 gaat over het ontwerpen van een website voor een cognitive beperking.
 
 ## License
 
