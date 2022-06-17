@@ -15,6 +15,7 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
   <img src="https://github.com/lottekoblens/weekly-nerd-2122/blob/master/images/leonie.jpeg" width="650">
 * [Artikel 2, TypeScript](https://github.com/lottekoblens/weekly-nerd-2122/wiki/TypeScript)
   Artikel 2 gaat over TypeScript. Ik leg hierin uit hoe TypeScript werkt en hoe je het kan gebruiken.
+  <img src="https://github.com/lottekoblens/weekly-nerd-2122/blob/master/images/typescript.png" width="650">
 * [Artikel 3, Opzet van een project](https://github.com/lottekoblens/weekly-nerd-2122/wiki/Opzet-van-een-project-(Triple))
   Artikel 3 gaat over hoe Triple een project opzet en wat voor tools ze daarbij allemaal gebruiken.
 
