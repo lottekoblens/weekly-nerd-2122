@@ -1,12 +1,7 @@
 # Weekly Nerd
 
-In deze repo vind je vier artikelen die ik heb geschreven over technieken/onderwerpen die bij de weekly nerds/mingles aan bod zijn gekomen.
-
-## Opdracht
-
-Drie keer schrijf je een uitgebreid artikel over een relevant web design en development onderwerp. Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. Engels wordt aangeraden.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+Tijdens de minor hebben we de eerste periode Weekly Nerds gehad. De laatste vier weken gingen we op bezoek bij bedrijven voor de Weekly Mingles.
+In deze repo vind je vier artikelen die ik heb geschreven over technieken/onderwerpen die bij deze weekly nerds/mingles aan bod zijn gekomen.
 
 ## De artikelen
 
